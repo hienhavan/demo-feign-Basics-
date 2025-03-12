@@ -1,7 +1,7 @@
 # Feign Demo - Spring Boot
 
 ## Giới thiệu
-Dự án này là một demo cơ bản sử dụng **Spring Cloud OpenFeign** để gọi API bên ngoài. 
+Dự án demo cơ bản sử dụng **Spring Cloud OpenFeign** để gọi API bên ngoài. 
 
 ## Công nghệ sử dụng
 - Java 23
