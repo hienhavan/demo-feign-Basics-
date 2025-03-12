@@ -48,7 +48,7 @@ Gọi API sẽ trả về:
         return new Request.Options(5000, 5000);
     }
 ```
-## fallback khi có lỗi 
+## Gọi fallback khi có lỗi 
 
 
 
